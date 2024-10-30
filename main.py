@@ -4,9 +4,9 @@
 # We are going to build a menu with multiple options for the user
 
 # Checklist:
-# Import games dictionary
-# List all games in the dictionary
-# Show game's details
-# Add a game to the dictionary
-# Remove a game from the dictionary
-# Edit a game in the dictionary
+# TODO: Import games dictionary
+# TODO: List all games in the dictionary
+# TODO: Show game's details
+# TODO: Add a game to the dictionary
+# TODO: Remove a game from the dictionary
+# TODO: Edit a game in the dictionary
