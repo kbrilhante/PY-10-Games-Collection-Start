@@ -10,5 +10,3 @@
 # TODO: Add a game to the dictionary
 # TODO: Remove a game from the dictionary
 # TODO: Edit a game in the dictionary
-
-print("hello world")
